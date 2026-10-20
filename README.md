@@ -6,12 +6,12 @@ This project uses Tableau to explore human resources data and present workforce 
 ### 1. HR Summary Dashboard
 The summary dashboard brings together workforce overview metrics, demographics, income analysis, and employee locations.
 
-[HR Summary Dashboard](./HRSummary.png)
+![HR Summary Dashboard](./HRSummary.png)
 
 ### 2. HR Employee Details Dashboard
 The employee details dashboard presents an employee list with information such as demographics, role, geography, salary, employment status, and length of employment.
 
-[HR Employee Details Dashboard](./HRDetails.png)
+![HR Employee Details Dashboard](./HRDetails.png)
 
 To display these images on GitHub: keep HRSummary.png and HRDetails.png in the same top-level folder as this README.md. The filenames and capitalization in the image links must match the uploaded filenames exactly.
 
